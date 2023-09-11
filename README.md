@@ -8,6 +8,7 @@
 </div>
 
 JAVA | Angular | Spring | PostgreSQL
+
 Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios. Neste perfil, você encontrará alguns dos meus projetos e contribuições para a comunidade open source.
 
 - 🌱 Atualmente, estou aprendendo Spring e Angular, visando desenvolver soluções em que eu possa participar da construção do Front-end e do Back-end.
