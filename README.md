@@ -1,13 +1,11 @@
 # Bem-vindo ao meu perfil do GitHub!
 
 <div>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="50" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" /> <h2>Java</h2>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="50" /> <h2>Angular</h2>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50" /> <h2>Spring Framework</h2>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50" /> <h2>PostgreSQL</h2>
 </div>
-
-JAVA | Angular | Spring | PostgreSQL
 
 Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios. Neste perfil, você encontrará alguns dos meus projetos e contribuições para a comunidade open source.
 
