@@ -5,6 +5,10 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 - 👥 Estou interessado em fazer novas conexões na área de tecnologia e colaborar em projetos incríveis.
 -
 
-![Java Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg =30x30) JAVA ![Angular Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg =30x30) Angular ![Spring Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg =30x30) Spring ![PostgreSQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg =30x30) PostgreSQL
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"> JAVA
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30" height="30"> Angular
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="30" height="30"> Spring
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30" height="30"> PostgreSQL
+
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos!
