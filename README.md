@@ -1,16 +1,13 @@
-### Hi there 👋
+# Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**lfviana/lfviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) Java;
+![Angular Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg) Angular;
+![Spring Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) Spring;
+![PostgreSQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) PostgreSQL;
 
-Here are some ideas to get you started:
+Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos desafios. Neste perfil, você encontrará alguns dos meus projetos e contribuições para a comunidade open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente, estou aprendendo [TECNOLOGIA].
+- 👥 Estou interessado em fazer novas conexões na área de tecnologia e colaborar em projetos incríveis.
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos!
