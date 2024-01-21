@@ -7,9 +7,10 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 # Tecnologias:
 ![Flutter](logos/flutter_logo.png)
 ![JavaScript](logos/javascript_logo.png)
-![React]()
+![React](logos/1174949_js_react%20js_logo_react_react%20native_icon.png
+)
 ![Vite](logos/vite_logo.png)
-![Java]([logos/java_logo.png](https://github.com/lfviana/lfviana/blob/main/4373217_java_logo_logos_icon.png))
+![Java](logos/4373217_java_logo_logos_icon.png)
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos!
 
