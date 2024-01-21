@@ -24,6 +24,6 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos!
 
 <div>
-  <a href="mailto:lfvianadf@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=blue" alt="Email" /></a>
+  <a href="mailto:lfvianadf@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/lu%C3%ADs-felipe-viana-9295a2256?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
