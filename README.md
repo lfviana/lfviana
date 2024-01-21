@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 ![JavaScript](logos/javascript_logo.png)
 ![React]()
 ![Vite](logos/vite_logo.png)
-![Java](logos/java_logo.png)
+![Java]([logos/java_logo.png](https://github.com/lfviana/lfviana/blob/main/4373217_java_logo_logos_icon.png))
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos!
 
