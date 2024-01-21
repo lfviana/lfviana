@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
     </a>
   </div>
   <div style="display: inline_block">
-    <h3>Front-end</h3>
+    <h3>Back-end</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,firebase" />
     </a>
