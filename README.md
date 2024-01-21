@@ -15,6 +15,3 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 )
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos!
-
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos!
