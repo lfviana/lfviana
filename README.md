@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
     </a>
     <h3>Back-end</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,node,xano,firebase" />
+      <img src="https://skillicons.dev/icons?i=java,node.js,xano,firebase" />
     </a>
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos!
