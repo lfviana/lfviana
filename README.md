@@ -12,6 +12,7 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
     </a>
+<details>
   <summary>Back-end</summary>
   <div style="display: inline_block">
     <h3>Front-end</h3>
