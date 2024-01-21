@@ -5,13 +5,16 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 - 👥 Estou interessado em fazer novas conexões na área de tecnologia e colaborar em projetos incríveis.
 
 # Tecnologias:
-![Flutter](logos/4691465_flutter_icon%20(1).png
-)
-![JavaScript](logos/4375017_js_logo_node_icon.png
-)
-![React](logos/1174949_js_react%20js_logo_react_react%20native_icon.png
-)
-![Java](logos/4373217_java_logo_logos_icon%20(1).png
-)
+<details>
+  <summary>🛠️ Skills</summary>
+  <div style="display: inline_block">
+    <h3>Front-end</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
+    </a>
+    <h3>Back-end</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,node,xano,firebase" />
+    </a>
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos!
