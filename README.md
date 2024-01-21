@@ -12,7 +12,6 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 ![React](logos/1174949_js_react%20js_logo_react_react%20native_icon.png
 )
 ![Java](logos/4373217_java_logo_logos_icon%20(1).png
-
 )
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Vamos construir algo incrível juntos!
