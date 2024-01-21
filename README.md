@@ -7,8 +7,7 @@ Sou um desenvolvedor apaixonado por tecnologia e estou sempre em busca de novos 
 # Tecnologias:
 ![Flutter](logos/flutter_logo.png)
 ![JavaScript](logos/javascript_logo.png)
-![React](![image](https://github.com/lfviana/lfviana/assets/130580942/4ca35c7f-b738-4926-9e5a-42abad39fc8f)
-)
+![React](C:\Users\Lfvia\Desktop\portfolio2\logo\1174949_js_react js_logo_react_react native_icon.png)
 ![Vite](logos/vite_logo.png)
 ![Java](logos/java_logo.png)
 
